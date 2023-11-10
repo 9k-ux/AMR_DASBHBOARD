@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
+
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
 
@@ -12,7 +13,7 @@ class MyComponent extends React.Component {
     return (
       <Navbar expand="lg" bg="dark" varient="dark" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home" className='custom-color'>Autonomuous Mobile Robot Dashboard</Navbar.Brand>
+        <Navbar.Brand href="#home" className='custom-color'>Autonomous Mobile Robot Dashboard</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
