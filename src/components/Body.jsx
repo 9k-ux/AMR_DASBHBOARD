@@ -1,11 +1,15 @@
-import React from 'react';
+import React ,{Component} from 'react';
+import { Container } from 'react-bootstrap';
 
 // Define a React component
 class MyComponent extends React.Component {
   render() {
     return (
       <div>
-        <h1>this is footer is the footer  </h1>
+        <Container>
+            <p>Footer</p>
+        </Container>
+        
       </div>
     );
   }
