@@ -6,6 +6,7 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
+    
    <Header/>
    <Body/>
    </BrowserRouter>
