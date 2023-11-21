@@ -13,7 +13,7 @@ class MyComponent extends React.Component {
                 
                     
                     <Route path="/" element={<Home/>}/>
-                    <Route path="/About" element={<p>this is about</p>}/>
+                    <Route path="/About" element={<p>this is about++ and testing</p>}/>
             
             </Routes>
         </Container>
