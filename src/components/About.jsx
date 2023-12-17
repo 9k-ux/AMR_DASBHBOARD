@@ -1,7 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 
-class About extends Component {
-  
+
+const About = () => {
+    return (
+        <p>This is project is developed under the ARTPARK fellowship programme</p>
+    );
+
 }
 
 export default About;

@@ -9,6 +9,7 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.1",
     "react-dom": "^18.2.0",
+    "react-joystick-component": "^6.2.1",
     "react-router-dom": "^6.19.0",
     "react-scripts": "5.0.1",
     "ros2d": "^0.10.0",
@@ -41,7 +42,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
